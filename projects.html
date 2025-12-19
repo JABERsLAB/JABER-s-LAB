@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel=" stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wdth,wght@0,18..144,87..112,300..900;1,18..144,87..112,300..900&display=swap" rel="stylesheet">
+
+    <!--- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> ---->
+    <script src="https://kit.fontawesome.com/04e8ccd60a.js" crossorigin="anonymous"></script>
+
+</head>
+<body>
+
+
+    <header class="banner1">
+
+        <nav>
+            <a href="index.html"><img src="Photos/logo.png" class="logo" alt="Logo">
+            </a>
+
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="index.html#about">ABOUT ME</a></li>
+                    <li><a href="equipment.html">EQUIPMENT & TOOLS</a></li>
+                    <li><a href="projects.html">PROJECTS</a></li>
+                    <li><a href="index.html#contact">CONTACT</a></li>
+                </ul>
+            </div>
+                <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav> 
+
+        <div class="text-box1">
+            <a href="#projects" class="hero-btn2"> <h5><b>PROJECTS</b></h5></a>
+        </div>
+        
+
+    </header>
+    <section class="header">
+        
+
+    </section>
+
+<!--equipment-->
+<section id="projects" class="equipment">
+
+<h1 class="title2"> <b>Click on each project or category to know more ! </b></h1> 
+
+
+
+<div class="row1">
+
+  <div class="equipment-col">
+    <a href="TriRaptor.html" class="project-link">
+      <img src="Photos/Projects/2.png">
+      <div class="cover">
+        <h2><b>TriRaptor</b></h2>
+        <p5 class="overlay-text">
+          The TriRaptor project is a three-environment vehicle that can operate in air, on land, and underwater.
+        </p5>
+      </div>
+    </a>
+  </div>
+
+  <div class="equipment-col">
+    <a href="PID.html" class="project-link">
+      <img src="Photos/Projects/4.png">
+      <div class="cover">
+        <h2><b>The PID Controller Tool</b></h2>
+        <p5 class="overlay-text">
+          A physical tool for tuning and testing PID control systems used in drones and robotics.
+        </p5>
+      </div>
+    </a>
+  </div>
+
+  <div class="equipment-col">
+    <a href="satellites.html" class="project-link">
+      <img src="Photos/Projects/1.png">
+      <div class="cover">
+        <h2><b>Satellites</b></h2>
+        <p5 class="overlay-text">
+          Projects related to small satellites and their subsystems.
+        </p5>
+      </div>
+    </a>
+  </div>
+
+  <div class="equipment-col">
+    <a href="drones.html" class="project-link">
+      <img src="Photos/Projects/5.png">
+      <div class="cover">
+        <h2><b>Drones & RC Aircraft</b></h2>
+        <p5 class="overlay-text">
+          Projects involving drones and RC aircraft, including their design, construction, testing, and control.
+        </p5>
+      </div>
+    </a>
+  </div>
+
+  <div class="equipment-col">
+    <a href="3d-printing.html" class="project-link">
+      <img src="Photos/Projects/6.png">
+      <div class="cover">
+        <h2><b> Design & 3D Printing  </b></h2>
+        <p5 class="overlay-text">
+          Projects related to CAD design and the next stage of design, which is 3D printing.
+        </p5>
+      </div>
+    </a>
+  </div>
+
+  <div class="equipment-col">
+    <a href="simulations.html" class="project-link">
+      <img src="Photos/Projects/3.png">
+      <div class="cover">
+        <h2><b>Simulations</b></h2>
+        <p5 class="overlay-text">
+          Aerodynamics, structure, and control simulations.
+        </p5>
+      </div>
+    </a>
+  </div>
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+<script>
+    var navLinks = document.getElementById("navLinks");
+    function showMenu(){
+        navLinks.style.right = "0";
+    }
+    function hideMenu(){
+        navLinks.style.right = "-200px";
+    }
+</script>
+</body>
+</html>
+
+
+
+
