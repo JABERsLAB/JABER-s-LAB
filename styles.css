@@ -93,7 +93,7 @@ nav{
 .nav-links ul li a{
     color: rgb(32, 32, 32);
     text-decoration: none;
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .nav-links ul li::after{
@@ -140,7 +140,7 @@ nav{
 }
 .text-box h5{
     margin-top: 100px;
-    font-size: 55px;
+    font-size: 30px;
     line-height: 3;
 }
 
@@ -209,8 +209,8 @@ nav{
 
 .text-box4 p10 {
     margin-top: 35px;
-    font-size: 25px;
-    letter-spacing: 1vb;
+    font-size: 22px;
+    letter-spacing: .5vb;
     word-spacing: 1vb;
   
 }
@@ -245,7 +245,7 @@ p10 a:hover::after {
 
 .text-box2 p {
     margin-top: 35px;
-    font-size: 25px;
+    font-size: 22px;
 }
 .text-box2 h5{
     margin-top: 100px;
@@ -256,19 +256,19 @@ p10 a:hover::after {
 
 .text-box7 h5{
     margin-top: 100px;
-    font-size: 35px;
+    font-size: 30px;
     line-height: 3;
-    letter-spacing: 2vb;
+    letter-spacing: .5vb;
 }
 
 .text-box7 p {
     margin-top: 35px;
-    font-size: 25px;
+    font-size: 22px;
 }
 .text-box7 p10 {
     margin-top: 35px;
-    font-size: 25px;
-    letter-spacing: 1.5vb;
+    font-size: 22px;
+    letter-spacing: .5vb;
     word-spacing: 1vb;
   
 }
@@ -277,13 +277,13 @@ p10 a:hover::after {
 
 .text-box4 h5{
     margin-top: 100px;
-    font-size: 35px;
+    font-size: 30px;
     line-height: 3;
-    letter-spacing: 2vb;
+    letter-spacing: .5vb;
 }
 
 .text-box3 h{
-    font-size: 40px;
+    font-size: 30px;
     line-height: 3;
     letter-spacing: .5vb;
     color: rgb(40, 38, 51);
@@ -293,7 +293,7 @@ p10 a:hover::after {
 
 .title1 p {
   
-    font-size: 25px;
+    font-size: 22px;
     text-align: center;
     color: rgb(40, 38, 51);
     margin-bottom: 2%;
@@ -301,7 +301,7 @@ p10 a:hover::after {
 .title1 h5{
   color: rgb(40, 38, 51);
     margin-top: -.5%;
-    font-size: 35px;
+    font-size: 30px;
     line-height: 3;
     letter-spacing: .5vb;
     text-align: center;
@@ -314,7 +314,7 @@ p10 a:hover::after {
 
 .text-box p{
     margin: 10px 0px 10px;
-    font-size: 50px;
+    font-size: 30px;
     color: rgb(32, 32, 32);
 }
 
@@ -360,7 +360,7 @@ nav .fa{
     color: rgb(32, 32, 32);
     border: 1px solid rgb(32, 32, 32);
     padding: 12px 34px;
-    font-size: 75px;
+    font-size: 45px;
     background: transparent;
     position: relative;
     cursor: pointer;
@@ -377,7 +377,7 @@ nav .fa{
     color: rgb(32, 32, 32);
     border: 1px solid rgb(32, 32, 32);
     padding: 12px 34px;
-    font-size: 25px;
+    font-size: 22px;
     background: transparent;
     position: relative;
     cursor: pointer;
@@ -472,7 +472,7 @@ flex-direction: column;
 flex-direction: column;
 }
 .ABOUT h3{
-font-size: 25px;
+font-size: 22px;
 }
 
 .about-col h2{
@@ -553,12 +553,12 @@ p{
 }
 
 .hero-text h1 {
-  font-size: 40px;
+  font-size: 30px;
   margin-bottom: 20px;
 }
 
 .hero-text p {
-  font-size: 25px;
+  font-size: 22px;
   line-height: 1.8;
   margin-bottom: 100px;
 }
@@ -571,7 +571,7 @@ p{
 }
 
 .text1 p {
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 600;
   color: rgb(40, 38, 51);
   line-height: 1.8;
@@ -583,7 +583,7 @@ p{
 
 
 .text2 p {
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 600;
   color: rgb(40, 38, 51);
   line-height: 1.8;
@@ -621,7 +621,7 @@ text-align: center;
 }
 h3{
     color:rgb(32, 32, 32) ;
-    font-size: 45px;
+    font-size: 30px;
     font-weight: 600;
     
 }
@@ -767,7 +767,7 @@ margin-left: 2%;
 @media(max-width: 700px){
 
 .hero-text h1{
-font-size: 35px 35px;
+font-size: 30px 35px;
 
 }
 .hero-text p{
@@ -879,7 +879,7 @@ h1{
 h2{
     text-align: center;
     color:rgba(201, 201, 201) ;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 600;
     margin: 2px 0;
     line-height: 5;
@@ -888,7 +888,7 @@ h2{
 
 
 .equipment-col {
-  flex-basis: 31%;
+  flex-basis: 27%;
   border-radius: 10px;
   margin: 5% 0;
   position: relative;        /* IMPORTANT */
@@ -921,7 +921,7 @@ h2{
 .cover h2 {
   text-align: center;
   color: #e5e5e5;
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 600;
   margin-bottom: 10px;
 }
@@ -947,7 +947,7 @@ h2{
 
 
 .software{
-width: 85%;
+width: 65%;
 margin: auto;
 text-align: center;
 margin-top: -5%;
@@ -975,7 +975,7 @@ margin-top: -5%;
 h1{
     margin-top: 8%;
     color:rgb(32, 32, 32) ;
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 700;
     letter-spacing: 0.5em;
     
@@ -1011,7 +1011,7 @@ h1{
 h2{
     text-align: center;
     color:rgba(201, 201, 201) ;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 600;
     margin: 2px 0;
     line-height: 5;
@@ -1053,7 +1053,7 @@ h2{
 .cover h2 {
   text-align: center;
   color: #e5e5e5;
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 600;
   margin-bottom: 10px;
 }
@@ -1328,10 +1328,10 @@ h2{
 .operation-title-big {
   color: rgb(32, 32, 32);
   margin-top: -10%;
-  font-size: 45px;
+  font-size: 30px;
   margin-bottom: 60px;
   font-weight: 600;
-  letter-spacing: 1.5vb;
+  letter-spacing: .5vb;
 }
 
 /* GRID — THIS CONTROLS COLUMN SIZE & GAP */
@@ -1358,7 +1358,7 @@ h2{
 .operation-card-big h3 {
   color: rgb(32, 32, 32);
   text-align: center;
-  font-size: 25px;
+  font-size: 22px;
   padding: 20px 24px;
   background: rgba(201, 201, 201);
   border-bottom: 1px solid rgba(201, 201, 201);
@@ -1404,7 +1404,7 @@ h2{
 
 .operation-card-big1 h3 {
   color: rgb(32, 32, 32);
-  font-size: 25px;
+  font-size: 22px;
   padding: 16px 0;
   background: lightgray;
 }
@@ -1412,17 +1412,17 @@ h2{
 .future-section-big h4{
   color: rgb(32, 32, 32);
   margin-top: -15%;
-  font-size: 45px;
+  font-size: 30px;
   margin-bottom: 60px;
   font-weight: 600;
-  letter-spacing: 1.5vb;
+  letter-spacing: .5vb;
   text-align: center;
 
 }
 
 .future-section-big p4{
   color: rgb(32, 32, 32);
-  font-size: 25px;
+  font-size: 22px;
   line-height: 1.6;
   margin-bottom: 60px;
   font-weight: 600;
@@ -1435,17 +1435,17 @@ h2{
 .future-section-big1 h4{
   color: rgb(32, 32, 32);
   margin-top: -8%;
-  font-size: 45px;
+  font-size: 30px;
   margin-bottom: 60px;
   font-weight: 600;
-  letter-spacing: 1.5vb;
+  letter-spacing: .5vb;
   text-align: center;
 
 }
 
 .future-section-big1 p4{
   color: rgb(32, 32, 32);
-  font-size: 25px;
+  font-size: 22px;
   line-height: 1.6;
   margin-bottom: 60px;
   font-weight: 600;
@@ -1457,7 +1457,7 @@ h2{
 
 .future-section-big1 p5{
   color: rgb(32, 32, 32);
-  font-size: 25px;
+  font-size: 22px;
   line-height: 1.6;
   margin-top: -25%;
   margin-bottom: 60px;
@@ -1667,7 +1667,7 @@ h2{
 .PID-card-big h3 {
   color: rgb(32, 32, 32);
   text-align: center;
-  font-size: 25px;
+  font-size: 22px;
   padding: 20px 24px;
   background: rgba(201, 201, 201);
   border-bottom: 1px solid rgba(201, 201, 201);
@@ -1685,212 +1685,211 @@ h2{
   border-radius: 10px;
 }
 
+.PID-card-big20 img {
+  width: auto;
+  height: 350px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
 
 .PID-card-big1 img {
   width: auto;
-  height: auto; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 600px;
   object-fit: cover;
   display: block;
-  margin-left: 12%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
+
 
 .PID-card-big2 img {
   width: auto;
-  height: 700px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 500px;
   object-fit: cover;
   display: block;
-  margin-left: 16%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
-
 .PID-card-big3 img {
   width: auto;
-  height: 500px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 500px;
   object-fit: cover;
   display: block;
-  margin-left: 20%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
 .PID-card-big4 img {
   width: auto;
-  height: 600px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 450px;
   object-fit: cover;
   display: block;
-  margin-left: 36%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
 .PID-card-big5 img {
   width: auto;
-  height: 600px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 450px;
   object-fit: cover;
   display: block;
-  margin-left: 17%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
 .PID-card-big6 img {
   width: auto;
-  height: 600px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 450px;
   object-fit: cover;
   display: block;
-  margin-left: 30.5%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
+
 .PID-card-big7 img {
   width: auto;
-  height: 700px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 500px;
   object-fit: cover;
   display: block;
-  margin-left: 37.5%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
 .PID-card-big8 img {
   width: auto;
-  height: 250px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 250px;
   object-fit: cover;
   display: block;
-  margin-left: 12%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
 .PID-card-big9 img {
   width: auto;
-  height: 400px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 400px;
   object-fit: cover;
   display: block;
-  margin-left: 9%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
+
 .PID-card-big10 img {
   width: auto;
-  height: 500px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 400px;
   object-fit: cover;
   display: block;
-  margin-left: 26%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
+
 
 .PID-card-big11 img {
   width: auto;
-  height: 700px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 500px;
   object-fit: cover;
   display: block;
-  margin-left: 33%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
+
 .PID-card-big12 img {
   width: auto;
-  height: 700px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 500px;
   object-fit: cover;
   display: block;
-  margin-left: 28%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
 .PID-card-big13 img {
   width: auto;
-  height: 600px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 450px;
   object-fit: cover;
   display: block;
-  margin-left: 25%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
+
 
 .PID-card-big14 img {
   width: auto;
-  height: auto; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 450px;
   object-fit: cover;
   display: block;
-  margin-left: 22%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
+
 
 .PID-card-big15 img {
   width: auto;
-  height: 600px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 450px;
   object-fit: cover;
   display: block;
-  margin-left: 26.5%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
+
 .PID-card-big16 img {
   width: auto;
-  height: 600px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 450px;
   object-fit: cover;
   display: block;
-  margin-left: 18%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
 .PID-card-big17 img {
   width: auto;
-  height: auto; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 700px;
   object-fit: cover;
   display: block;
-  margin-left: 15%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
+
 
 .PID-card-big18 img {
   width: auto;
-  height: 400px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 400px;
   object-fit: cover;
   display: block;
-  margin-left: 13%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
+
 .PID-card-big19 img {
   width: auto;
-  height: 600px; /* 👈 MAKE THIS BIGGER OR SMALLER */
+  height: 450px;
   object-fit: cover;
   display: block;
-  margin-left: 40%;
-  margin-bottom: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
+
 
 
 
 .video-section-big h4{
   color: rgb(32, 32, 32);
   margin-top: -15%;
-  font-size: 45px;
+  font-size: 30px;
   margin-bottom: -2%;
   font-weight: 600;
-  letter-spacing: 1.5vb;
+  letter-spacing: .5vb;
   text-align: center;
 
 }
 
 .video-section-big p4{
   color: rgb(32, 32, 32);
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 600;
   text-align: center;
   max-width: 700px;      /* 👈 controls narrowness */
@@ -1900,28 +1899,26 @@ h2{
 }
 
 .video-card-big video {
-  width: 60%;
+  width: 50%;
   height: auto; /* 👈 MAKE THIS BIGGER OR SMALLER */
   object-fit: cover;
   display: block;
-  margin-left: 20%;
-  margin-bottom: auto;
-  border-radius: 10px;
-  align-items: center;
+  margin: 0 auto;
   margin-top: -2%;
+  border-radius: 10px;
 }
 
+
 .video-card-big1 video {
-  width: 25%;
+  width: 20%;
   height: auto; /* 👈 MAKE THIS BIGGER OR SMALLER */
   object-fit: cover;
   display: block;
-  margin-left: 37%;
-  margin-bottom: auto;
-  border-radius: 10px;
-  align-items: center;
+  margin: 0 auto;
   margin-top: -2%;
+  border-radius: 10px;
 }
+
 
 .video-card-big2 video {
   width: 60%;
@@ -2276,7 +2273,7 @@ h2{
   .text-box4 h5,
   .title1 h5,
   .text-box7 h5 {
-    font-size: 25px;
+    font-size: 22px;
     margin-top: 60px;
     line-height: 1.6;
     letter-spacing: normal;
@@ -2303,7 +2300,7 @@ h2{
   }
 
   .hero-btn2 {
-    font-size: 25px;
+    font-size: 22px;
     padding: 10px 20px;
   }
 
@@ -2516,6 +2513,8 @@ html, body {
   width: 100%;
   overflow-x: hidden;
 }
+
+
 
 /* iPads */
 @media (min-width: 769px) and (max-width: 1024px) {
