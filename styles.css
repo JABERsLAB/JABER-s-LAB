@@ -2689,7 +2689,7 @@ html, body {
 /* iPads */
 @media (min-width: 768px) and (max-width: 1024px) {
   .site-scale {
-    zoom: 50%;
+    zoom: 45%;
     width: 100%;
   }
 
@@ -2914,21 +2914,21 @@ h2{
   flex-direction: column;
   justify-content: center;
   padding: 20px;
-  height: 18%;
+  height: 20%;
   opacity: 1;                /* hidden */
 }
 
 .cover h2 {
   text-align: center;
   color: #e5e5e5;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 600;
   margin-bottom: 10px;
 }
 
 .overlay-text {
   color: white;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
   text-align: left;
 }
@@ -2945,7 +2945,7 @@ h2{
 /* Small laptops */
 @media (min-width: 1025px) and (max-width: 1200px) {
   .site-scale {
-    zoom: 80%;
+    zoom: 45%;
     width: 100%;
   }
 
@@ -3200,7 +3200,7 @@ h2{
 
 @media (max-width: 1300px) {
   .site-scale {
-    zoom: 80%;
+    zoom: 45%;
     width: 100%;
   }
 
