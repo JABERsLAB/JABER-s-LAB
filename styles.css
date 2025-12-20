@@ -3198,7 +3198,7 @@ h2{
   
 }
 
-@media (max-width: 1300px) {
+@media (min-width: 1026px) and (max-width: 1300px) {
   .site-scale {
     zoom: 45%;
     width: 100%;
