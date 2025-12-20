@@ -2516,3 +2516,27 @@ html, body {
   width: 100%;
   overflow-x: hidden;
 }
+
+/* iPads */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .site-scale {
+    zoom: 60%;
+    width: 100%;
+  }
+
+  .contact-col{
+    margin-left: 60px;
+  }
+}
+
+/* Small laptops */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .site-scale {
+    zoom: 60%;
+    width: 100%;
+  }
+
+    .contact-col{
+    margin-left: 60px;
+  }
+}
