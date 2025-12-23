@@ -3209,7 +3209,7 @@ h2{
 .site-footer {
   text-align: left;
   font-size: 13px;
-  color: rgba(26, 0, 0);
+  color: rgba(201, 201, 201);
   padding: 10px 0;
-  background-color: rgb(26, 26, 26);
+  background-color: rgba(26, 26, 26);
 }
